@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 
 <h3 align="center">A young-dumb 🤓 Back End Engineer from India 🇮🇳</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=Vishalkumar/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=VishalDevelooperengineer alt=Vishalkumar/> </p>
 
-<p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="Vishalkumar" /></a> </p>
+<p align="left"> <a href="www.linkedin.com/in/vishalkumartojavascript" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+" alt="Vishalkumar" /></a> </p>
 
-
-- 🤔 I’m looking for help with [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 
 - 💬 Ask me about **Javascript , Node js , Express , MongoDB , Mysql , RestFull APIs**
 
@@ -14,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available
 
-- ⚡ Fun fact **Consistency is key of Success..............**
+- ⚡fact **Consistency is key of Success..............**
 
 
 <h3 align="left">Connect with me:</h3>
