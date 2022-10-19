@@ -1,4 +1,4 @@
-[[!MasterHead]<h1 align="center">Hi 👋, I'm Vishal Kumar</h1>]
+<h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 
 <h3 align="center">A young-dumb 🤓 Back End Engineer from India 🇮🇳</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=VishalDevelooperengineer alt=Vishalkumar/> </p>
