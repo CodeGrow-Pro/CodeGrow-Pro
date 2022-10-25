@@ -1,4 +1,4 @@
-[![@vishalkumar0025's Holopin board](https://holopin.me/vishalkumar0025)](https://holopin.io/@vishalkumar0025)]
+[![@vishalkumar0025's Holopin board](https://holopin.me/vishalkumar0025)](https://holopin.io/@vishalkumar0025)
 
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate Backend Engineer from India</h3>
