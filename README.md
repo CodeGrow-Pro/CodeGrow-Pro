@@ -1,5 +1,5 @@
 [![@vishalkumar0025's Holopin board](https://holopin.me/vishalkumar0025)](https://holopin.io/@vishalkumar0025)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1dcfcff4-fc2e-435a-a819-f16427d4eebd/deploy-status)](https://app.netlify.com/sites/nicestar/deploys)
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate Backend Engineer from India</h3>
 
